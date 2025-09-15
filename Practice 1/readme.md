@@ -12,4 +12,5 @@
 Память калькулятора НЕ сохраняется между запусками, учитывайте это при работе с программой.
 
 Пример пользования:
+
 <img width="290" height="384" alt="image" src="https://github.com/user-attachments/assets/dc169e75-9ade-43cd-94e8-c4316ab80b0f" />
